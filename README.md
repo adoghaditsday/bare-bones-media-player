@@ -7,3 +7,4 @@ Built with Python, PySide6, and libVLC, the application supports common local me
 Unlike VLC, which is designed as a broad, all-purpose media platform with extensive codec, streaming, conversion, and advanced playback tooling, this player is intentionally scoped down. Its design focuses on fast access, smaller UI footprint, and a more curated feature set centered around everyday playback. The result is a player that feels lighter, simpler, and easier to navigate while still retaining the most practical features users expect from a modern media application.
 
 In short, the concept is not to replace VLC feature-for-feature, but to create a more compact media player that captures the essentials: reliable playback, clean controls, playlist flexibility, and a personalized but simplified experience.
+<img width="1197" height="788" alt="image" src="https://github.com/user-attachments/assets/143a3eac-5964-48c6-a5e8-244f231919d2" />
