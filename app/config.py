@@ -1,0 +1,3 @@
+APP_NAME = "Bare Bones"
+ORG_NAME = "GSG3"
+MAX_RECENT_FILES = 10
